@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "밥 안먹기",
+      "done": false
+    },
+    {
+      "id": 2,
+      "todo": "밥 잘먹기",
+      "done": false
+    },
+    {
+      "id": "deee",
+      "todo": "라면먹기",
+      "done": false
+    }
+  ]
+}
